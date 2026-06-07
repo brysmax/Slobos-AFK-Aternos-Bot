@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "StickManMCnet.aternos.me",
+    "ip": "horse.aternos.host",
     "port": 21371,
     "version": "",
     "try-creative": false
